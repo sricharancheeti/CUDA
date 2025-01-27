@@ -1,1 +1,1 @@
-# CUDA
+# CUDA 100 days Learning Journey
